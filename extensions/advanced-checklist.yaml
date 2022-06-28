@@ -1,6 +1,6 @@
 ---
-id: org.standardnotes.advanced-checklist
-npm: sn-advanced-checklist
+id: org.xthursdayx.advanced-checklist
+#npm: sn-advanced-checklist
 github: xthursdayx/advanced-checklist
 main: build/index.html
 
@@ -8,7 +8,7 @@ name: Advanced Checklist
 content_type: SN|Component
 area: editor-editor
 version: 0.0.3
-marketing_url: https://github.com/standardnotes/advanced-checklist
+marketing_url: https://github.com/xthursdayx/advanced-checklist
 thumbnail_url:
 description: A task editor with grouping functionality.
 flags: []
