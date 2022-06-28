@@ -1,6 +1,6 @@
 ---
-id: org.standardnotes.bold-editor
-npm: sn-bold-editor
+id: org.xthursdayx.bold-editor
+#npm: sn-bold-editor
 github: xthursdayx/bold-editor
 main: dist/index.html
 

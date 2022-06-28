@@ -7,7 +7,7 @@ main: build/index.html
 name: Advanced Checklist
 content_type: SN|Component
 area: editor-editor
-version: 0.0.3
+version: 0.0.4
 marketing_url: https://github.com/xthursdayx/advanced-checklist
 thumbnail_url:
 description: A task editor with grouping functionality.

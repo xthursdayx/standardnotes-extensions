@@ -1,6 +1,6 @@
 ---
-id: org.standardnotes.simple-task-editor
-npm: sn-simple-task-editor
+id: org.xthursdayx.simple-task-editor
+#npm: sn-simple-task-editor
 github: xthursdayx/simple-task-editor
 main: dist/index.html
 
