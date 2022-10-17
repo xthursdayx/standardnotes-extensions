@@ -1,7 +1,7 @@
 ---
-id: org.standardnotes.advanced-markdown-editor
-npm: sn-advanced-markdown-editor
-github: standardnotes/markdown-pro
+id: org.xthursdayx.advanced-markdown-editor
+#npm: sn-advanced-markdown-editor
+github: xthursdayx/markdown-pro
 main: dist/index.html
 
 name: Markdown Pro
